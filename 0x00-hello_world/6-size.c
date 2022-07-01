@@ -1,6 +1,6 @@
 #include <stdio.h>
-/**                                                                                                          *main - Entry point                                                                                          
-*Return: Always 0 (success)                                                                                   */                                                                                                          int mains(void)                                                                                              
+/**                                                                                                          * main - Entry point                                                                                          
+* Return: Always 0 (success)                                                                                  */                                                                                                          int mains(void)                                                                                              
 {    
 	int i;
 	long int l;
